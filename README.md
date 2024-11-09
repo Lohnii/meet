@@ -1,0 +1,2 @@
+1. Abrir o config.py pra setar as configuracoes (Só precisa fazer isso na primeira vez)
+2. Rodar o meet.py e deixar o chat aberto pro codigo conseguir ler. Ele lê o que está escrito na tela, então o chat precisa estar visível para você para ele funcionar.

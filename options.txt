@@ -1,0 +1,10 @@
+abrirLink=True
+coordsMonitorPrincipal=[10,10]
+
+aulaSegunda = ''
+aulaTerca = ''
+aulaQuarta = ''
+aulaQuinta = ''
+aulaSexta = ''
+aulaSabado = ''
+aulaDomingo = ''
